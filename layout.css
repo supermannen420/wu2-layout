@@ -19,6 +19,7 @@ h2{
 
 
 .hero-grid{
+    
     display: grid;
     grid-template-areas: "stack";
    
